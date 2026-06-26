@@ -1,10 +1,10 @@
-# 🔄 189. Rotate Array
+# 189. Rotate Array
 
 > **Difficulty:** Medium &nbsp;|&nbsp; **Topic:** Arrays &nbsp;|&nbsp; [View on LeetCode](https://leetcode.com/problems/rotate-array/)
 
 ---
 
-## 📝 Problem Statement
+## Problem Statement
 
 Given an integer array `nums`, rotate the array to the right by `k` steps, where `k` is non-negative.
 
